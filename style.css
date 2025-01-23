@@ -1,0 +1,11 @@
+body { margin: 0; font-family: Arial, sans-serif; background: #0a0317; color: #fff; text-align: center; }
+.container, footer { padding: 20px; }
+.card, .chart, .testimonial, .plan { background: #1c0938; border-radius: 8px; margin: 20px auto; padding: 20px; max-width: 300px; }
+h1 { font-size: 2.5rem; color: #ff79c6; }
+h2 { font-size: 2rem; margin: 40px 0 20px; color: #bd93f9; }
+h3 { color: #8be9fd; }
+p { color: #bbb; }
+footer { background: #14072b; margin-top: 40px; }
+button { padding: 10px 20px; background: #6c45e7; color: #fff; border: none; border-radius: 5px; cursor: pointer; }
+button:hover { background: #8058f7; }
+.branding-image { width: auto%; height: 30%; margin: 25px;}
